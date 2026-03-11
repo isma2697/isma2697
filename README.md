@@ -2,9 +2,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isma2697&label=Profile%20views&color=0e75b6&style=flat" alt="isma2697" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isma2697" alt="isma2697" /></a> </p>
-
 Desarrollador **Web Full Stack** con experiencia en **PHP y Laravel**, enfocado en crear aplicaciones web funcionales, escalables y bien estructuradas. Estoy **abierto a oportunidades de colaboración en proyectos de código abierto**, especialmente relacionados con **seguridad informática, pentesting, backend o herramientas para developers**.
 
 📫 Contacto: **[Isma2697@gmail.com](mailto:Isma2697@gmail.com)**
